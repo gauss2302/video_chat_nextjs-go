@@ -118,5 +118,4 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/videochat
+Your Name - shilov6865@gmail.com
